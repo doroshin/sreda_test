@@ -1,0 +1,16 @@
+.mb-20{
+  margin-bottom: 20px;
+}
+label{
+  font-weight: bold;
+}
+.btn-outline-primary{
+  border: 1px solid #FE4A49 !important;
+  background-color: rgba(254, 74, 73, 0) !important;
+  color: #FE4A49 !important;
+}
+#data_form_main #certificate_form .btn-outline-primary:hover{
+  border-color: #fe1816 !important;
+  background-color: #fe1816 !important;
+  color: #ffffff !important;
+}
